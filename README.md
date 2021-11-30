@@ -5,7 +5,9 @@ Coding backed by calculated experiments will never fail. Growing plants, observi
 # Gene Sequencing Techniques
 There are various techniques that can be employed in order to sequence DNA. 
 
-The first method, known as the Maxam Gilbert method, was developed in 1977. 
+
+# The Maxam Gilbert Technique
+The first method, known as the Maxam Gilbert method, was developed in 1977.__
 It was not an effective way of sequencing DNA, however.
 In MGS, DNA extraction was, inevitably, the first step. The DNA is then denatured to give single stranded DNA. The phosphate (5P') at the end of the DNA is removed and labelled. An enzyme called phosphatase removes the phosphate from the DNA, and simultaneously, the kinase adds the 32P to the 5' end of it.
 4 different chemicals are used to cleave DNA at four different positions; hydrazine and hydrazine NaCl are selectively attack pyrimidine nucleotides while dimethyl sulfate and piperidine attack purine nucleotides.
