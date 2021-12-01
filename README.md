@@ -16,7 +16,7 @@ In MGS, DNA extraction was, inevitably, the first step. The DNA is then denature
 Hydrazine: T + C\
 Hydrazine NaCl: C\
 Dimethyl sulfate: A + G\
-Piperidine: G\
+Piperidine: G
 
 An equal volume of 4 different ssDNA samples is taken into 4 different tubes each containing 4 different chemicals. The samples are incubated for some time and electrophoresed in polyacrylamide gel electrophoresis. The scalability of MGS is poor, and that makes it harder to use.\
 
