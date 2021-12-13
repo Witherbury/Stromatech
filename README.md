@@ -31,7 +31,7 @@ A ddNTP has an oxygen removed from the ribonucleotide and therefore cannot form 
 
 ![Sanger-Sequencing-Introduction-Principle-and-Protocol-1-283x300](https://user-images.githubusercontent.com/94278049/145798716-55685058-5cce-42d3-b139-efef6144f5cd.png)
 
-All in all, this sequencing technique has 6 steps. 
+All in all, this sequencing technique has 6 steps.\ 
 ![Sanger-Sequencing-Introduction-Principle-and-Protocol-2-e1582309851548](https://user-images.githubusercontent.com/94278049/145798957-74817a44-7436-4134-b40e-923ec1d44bb2.png)
 
 # References:
