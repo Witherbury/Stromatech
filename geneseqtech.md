@@ -23,9 +23,13 @@ The DNA to be sequenced is prepared in a single strand. In the presence of the 4
 
 A ddNTP has an oxygen removed from the ribonucleotide and therefore cannot form a bond with the next nucleotide, unlike dNTPs.
 
-All in all, this sequencing technique has 6 steps\
+All in all, this sequencing technique has 6 steps
+
+# Solexa Sequencing
+This technique uses a concept called synthesis. Sequencing templates are immobilized on a proprietary flow cell surface. Unlabeled nucleotides and enzymes are added to initiate solid-phase bridge amplification. The enzyme incorporates nucleotides to build double-stranded bridges on the solid-phase substrate. Denaturation leaves single-stranded templates anchored to the substrate. Several million dense clusters of double-stranded DNA are generated in each channel of the flow cell. The first sequencing cycle begins by adding four labeled reversible terminators, primers, and DNA polymerase. After laser excitation, the emitted fluorescence from each cluster is captured, and the first base is identified. The next cycle repeats the incorporation of four labeled reversible terminators, primers, and DNA polymerase. After laser excitation, the image is captured as before, and the identity of the second base is recorded. The sequencing cycles are repeated to determine the sequence of bases in a fragment, one base at a time. The data are aligned and compared to a reference, and sequencing differences are identified.
 
 # References:
 
 1. Gauthier, Michel G. Simulation of polymer translocation through small channels: A molecular dynamics study and a new Monte Carlo approach. Diss. University of Ottawa (Canada), 2008.
 2. Sikkema‐Raddatz, Birgit, et al. Targeted next‐generation sequencing can replace Sanger sequencing in clinical diagnostics. Human mutation 34.7 (2013): 1035-1042.
+3. https://explorebiotech.com/genome-sequencing-methods-and-applications/ by Bishal Khatiwada in Genetics.
